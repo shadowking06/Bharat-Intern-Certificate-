@@ -8,7 +8,8 @@ During my internship at Bharat Intern, I worked on two exciting projects as part
 
 ### Project Overview
 
-I developed a **Video Conferencing Website** that allows users to create and join video calls. The application includes features such as user authentication, real-time video streaming, and chat functionality.
+I developed a **Video Conferencing Website** that allows users to create and join video calls. 
+The application includes features such as user authentication, real-time video streaming, and chat functionality.
 
 ### 🌟 Features
 
@@ -22,6 +23,10 @@ I developed a **Video Conferencing Website** that allows users to create and joi
 - ![HTML5](https://img.icons8.com/ios-filled/50/000000/html-5.png) **HTML5**
 - ![CSS3](https://img.icons8.com/ios-filled/50/000000/css3.png) **CSS3**
 - ![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript.png) **JavaScript**
+
+### 📈 Project Screenshot
+
+![Video Conferencing Screenshot](https://via.placeholder.com/600x300.png?text=Video+Conferencing+Website)
 
 ## 💬 Social Media App
 
@@ -44,18 +49,12 @@ Welcome to the **Social Media App**! This project is a web application that allo
 - ![HTML5](https://img.icons8.com/ios-filled/50/000000/html-5.png) **HTML5:** For structuring the content.
 - ![CSS3](https://img.icons8.com/ios-filled/50/000000/css3.png) **CSS3:** For styling the application.
 
-## 📈 Project Charts
+### 📈 Project Screenshot
 
-### Video Conferencing Website
-![Video Conferencing](https://via.placeholder.com/600x300.png?text=Video+Conferencing+Website)
-
-### Social Media App
-![Social Media](https://via.placeholder.com/600x300.png?text=Social+Media+App)
+![Social Media App Screenshot](https://via.placeholder.com/600x300.png?text=Social+Media+App)
 
 ## 👨‍💻 About Me
 
-I am passionate about web development and building interactive web applications. 
+I am passionate about web development and building interactive web applications. Connect with me on [LinkedIn]( https://www.linkedin.com/in/ujjwal-pandey-324769166/ ) for more updates on my projects and professional journey.
 
-Connect with me on LinkedIn for more updates on my projects and professional journey.
-
-![LinkedIn]( https://www.linkedin.com/in/ujjwal-pandey-324769166/ )
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
